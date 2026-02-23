@@ -1,12 +1,16 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshay&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Crafting%20Digital%20Experiences&descAlignY=60&descSize=18"/>
-</div>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Akshay+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+Beautiful+Web+Experiences+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
+
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Akshay</strong>
+</h1>
+<h3>Frontend Developer | Crafting Beautiful Digital Experiences</h3>
 
 <br/>
 
@@ -91,6 +95,10 @@ const akshay = {
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshay-D-tech&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
